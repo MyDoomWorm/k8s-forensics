@@ -1,0 +1,4 @@
+kubernetes>=29.0.0
+liboqs-python @ git+https://github.com/open-quantum-safe/liboqs-python.git
+streamlit>=1.35.0
+pandas>=2.2.0
